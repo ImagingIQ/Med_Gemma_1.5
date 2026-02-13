@@ -1,0 +1,1212 @@
+
+
+============================================================
+SERIES DESCRIPTION: T1 W AXIAL
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979334.251
+============================================================
+FINDINGS:
+The brain MRI shows a large, well-circumscribed, hyperintense lesion in the right frontal lobe, extending into the right temporal lobe. The lesion appears to be predominantly cystic with some areas of internal hemorrhage. There is mass effect on the adjacent brain parenchyma, causing mild midline shift. There is no significant edema or surrounding vasogenic edema. The ventricles are mildly enlarged. The basal cisterns are patent. The orbits are unremarkable. The paranasal sinuses are clear. IMPRESSION:
+Large cystic lesion in the right frontal/temporal lobe with hemorrhage and mass effect. This could represent a complex cystic neoplasm or a complicated cyst. Further evaluation with contrast-enhanced MRI and possibly CT is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: AXIAL T2 FLAIR
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979335.642
+============================================================
+FINDINGS:
+- There is a large area of encephalomalacia and gliosis in the right frontal lobe, consistent with a large infarct.
+- There is a smaller area of encephalomalacia and gliosis in the left frontal lobe.
+- There is a small area of encephalomalacia and gliosis in the right parietal lobe.
+- There is a small area of encephalomalacia and gliosis in the left parietal lobe.
+- There is a small area of encephalomalacia and gliosis in the right occipital lobe.
+- There is a small area of encephalomalacia and gliosis in the left occipital lobe.
+- There is a small area of encephalomalacia and gliosis in the right temporal lobe.
+- There is a small area of encephalomalacia and gliosis in the left temporal lobe.
+- There is a small area of encephalomalacia and gliosis in the right cerebellum.
+- There is a small area of encephalomalacia and gliosis in the left cerebellum.
+- There is a small area of encephalomalacia and gliosis in the right pons.
+- There is a small area of encephalomalacia and gliosis in the left pons.
+- There is a small area of encephal
+
+
+============================================================
+SERIES DESCRIPTION: Ax DWI 1000b
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979334.633
+============================================================
+FINDINGS:
+The provided MRI images show a large, well-circumscribed, hyperintense lesion in the right frontal lobe, extending into the right temporal lobe. The lesion appears to be associated with significant mass effect, causing midline shift and compression of the adjacent structures. There is also evidence of surrounding edema. The lesion appears to be cystic with some internal debris. There is also a smaller lesion in the left frontal lobe. There is no evidence of hemorrhage or hydrocephalus. The ventricles are normal in size. The brainstem and cerebellum appear normal.
+
+IMPRESSION:
+Large right frontal lobe mass with significant mass effect and edema. Smaller lesion in the left frontal lobe.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: Ax T1 fs +C
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979336.414
+============================================================
+FINDINGS:
+- There is a large, well-circumscribed, lobulated mass in the right frontal lobe, measuring approximately 3.5 x 3.0 x 3.0 cm.
+- The mass is predominantly hyperintense on T1-weighted images and hypointense on T2-weighted images.
+- There is associated vasogenic edema in the right frontal lobe.
+- There is no midline shift or mass effect on the ventricles.
+- The left cerebral hemisphere appears normal.
+- The brainstem and cerebellum appear normal.
+- The orbits appear normal.
+- The paranasal sinuses appear normal.
+- The mastoid air cells appear normal.
+- The calvarium appears normal.
+
+IMPRESSION:
+- Large lobulated mass in the right frontal lobe with associated vasogenic edema.
+- Differential diagnosis includes primary brain tumor (e.g., glioblastoma, meningioma) or metastasis.
+- Further evaluation with contrast-enhanced MRI and possibly biopsy is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2 W COR
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979335.257
+============================================================
+FINDINGS:
+The images show a large right-sided brain mass with significant surrounding edema. The mass appears to be predominantly cystic with some solid components. There is significant mass effect on the right lateral ventricle, causing mild midline shift. There is also some mass effect on the right temporal lobe and right occipital lobe. There is a small amount of hemorrhage within the mass. There is no evidence of hydrocephalus. There is no evidence of extra-axial collection. The left side of the brain appears normal. IMPRESSION:
+Large right-sided brain mass with significant edema, mass effect, and hemorrhage.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: Ax T2 FLAIR FS+C
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979336.35
+============================================================
+FINDINGS:
+The patient presents with a large right-sided extra-axial mass, likely a chronic subdural hematoma, with significant mass effect on the underlying brain parenchyma. There is evidence of surrounding gliosis and edema. The left side of the brain appears unremarkable. There is no evidence of acute hemorrhage or hydrocephalus.
+
+IMPRESSION:
+Large right-sided chronic subdural hematoma with mass effect.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T2 W GRE AXIAL
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979336.799
+============================================================
+FINDINGS:
+- The brain parenchyma appears unremarkable.
+- There is no evidence of mass effect or hydrocephalus.
+- No obvious signs of acute infarct or hemorrhage are seen.
+- The ventricles and sulci are within normal limits.
+- No significant extra-axial collection is identified.
+- The visualized paranasal sinuses and mastoid air cells appear clear.
+- The orbits appear unremarkable.
+- The calvarium appears unremarkable.
+
+IMPRESSION:
+- Unremarkable brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax FRFSE T2
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979337.193
+============================================================
+FINDINGS:
+The brain MRI shows a large area of encephalomalacia and gliosis in the right frontal lobe, likely representing a large infarct or post-hemorrhagic infarct. There is also a smaller area of encephalomalacia in the left frontal lobe. There is no evidence of acute hemorrhage or edema. The ventricles and sulci are normal in size and configuration. There is no midline shift or mass effect. The brainstem and cerebellum appear normal. There is no evidence of hydrocephalus. The orbits and paranasal sinuses are unremarkable. IMPRESSION:
+Large area of encephalomalacia and gliosis in the right frontal lobe, likely representing a large infarct or post-hemorrhagic infarct. Smaller area of encephalomalacia in the left frontal lobe. No evidence of acute hemorrhage or edema. No midline shift or mass effect. No hydrocephalus.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: 3-pl T2* FGRE-XL
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979339.946
+============================================================
+FINDINGS:
+- The brain MRI shows a large area of abnormal signal intensity in the right temporal lobe, extending into the parietal lobe.
+- The abnormal signal is predominantly hyperintense on T2-weighted images and hypointense on T1-weighted images.
+- There is significant mass effect with midline shift and effacement of the right lateral ventricle.
+- There is associated edema in the surrounding brain parenchyma.
+- There is no evidence of hemorrhage or calcification within the lesion.
+- The ventricles are enlarged.
+- The basal cisterns are patent.
+- The brainstem and cerebellum are unremarkable.
+- The orbits are unremarkable.
+- The paranasal sinuses are clear.
+- The mastoid air cells are clear.
+- The calvarium is unremarkable.
+
+IMPRESSION:
+- Large right temporal and parietal lobe mass with significant mass effect and midline shift.
+- The differential diagnosis includes primary brain tumor (e.g., glioblastoma), metastatic disease, or infection (e.g., abscess).
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: COR
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979337.561
+============================================================
+FINDINGS:
+- The images show a large, well-circumscribed, hyperintense mass in the right frontal lobe.
+- The mass appears to be associated with a large area of encephalomalacia, likely representing a chronic infarct or post-traumatic change.
+- There is no significant mass effect on the adjacent brain parenchyma.
+- There is no evidence of hemorrhage or edema associated with the mass.
+- The ventricles and sulci appear normal in size and configuration.
+- There is no midline shift.
+- The paranasal sinuses and mastoid air cells appear clear.
+- The orbits appear normal.
+- The calvarium appears intact.
+
+IMPRESSION:
+- Large, chronic infarct or post-traumatic lesion in the right frontal lobe.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T1 W SAG
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979344.195
+============================================================
+FINDINGS:
+- The brain MRI shows a large, well-defined, hyperintense lesion in the left frontal lobe.
+- The lesion appears to be causing mass effect on the adjacent brain parenchyma.
+- There is no evidence of hemorrhage or edema associated with the lesion.
+- The ventricles and sulci appear normal in size and configuration.
+- No midline shift is observed.
+- The paranasal sinuses and mastoid air cells appear clear.
+- The orbits appear normal.
+- The calvarium appears intact.
+
+IMPRESSION:
+- Large left frontal lobe mass. Further evaluation with contrast-enhanced MRI and/or CT is recommended to characterize the lesion.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: ADC (10^-6 mm²/s)[No-Q]:Feb 08 2025 06-56-25 IST
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979343.354
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. There is a large area of high signal intensity (bright) in the right parietal lobe, consistent with a large area of infarction (stroke). There is also a smaller area of high signal intensity in the left frontal lobe, also consistent with an area of infarction. There is no evidence of hemorrhage, mass effect, or hydrocephalus. The ventricles and sulci are normal in size. The brainstem and cerebellum appear normal.
+
+IMPRESSION:
+Large right parietal infarction and smaller left frontal infarction.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: eADC[No-Q]:Feb 08 2025 06-56-25 IST
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979344.519
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. There is a large area of signal abnormality in the right parietal lobe, extending into the temporal lobe. This area appears hyperintense on T2-weighted images. There is mass effect on the adjacent structures. There is no evidence of hemorrhage or edema. The ventricles and sulci are normal in size. The midline structures are midline. There is no evidence of hydrocephalus. The brainstem and cerebellum are unremarkable.
+
+IMPRESSION:
+Large area of signal abnormality in the right parietal and temporal lobes, likely representing a large infarct or possibly a tumor. Further evaluation is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: 3D Ax FIESTA-C
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979345.642
+============================================================
+FINDINGS:
+- There is a large, well-circumscribed, lobulated mass in the right temporal lobe, extending into the right parietal lobe.
+- The mass shows heterogeneous signal intensity on T1-weighted images, predominantly hyperintense on T2-weighted images.
+- There is significant mass effect on the adjacent brain parenchyma, particularly in the right temporal lobe.
+- There is associated vasogenic edema in the right temporal lobe.
+- There is no midline shift or herniation.
+- There is no evidence of intracranial hemorrhage.
+- There is no evidence of hydrocephalus.
+- There is no evidence of extra-axial mass.
+- There is no evidence of abnormal enhancement.
+- There is no evidence of restricted diffusion.
+- There is no evidence of abnormal signal in the brainstem or cerebellum.
+- There is no evidence of abnormal signal in the orbits.
+- There is no evidence of abnormal signal in the paranasal sinuses.
+- There is no evidence of abnormal signal in the mastoid air cells.
+- There is no evidence of abnormal signal in the nasopharynx.
+- There is no evidence of abnormal signal in the parotid glands.
+- There is no evidence of abnormal signal in the
+
+
+============================================================
+SERIES DESCRIPTION: SAG
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979344.844
+============================================================
+FINDINGS:
+- The brain MRI shows a large, well-defined, cystic lesion in the left frontal lobe.
+- The lesion is located in the left frontal lobe, extending into the left temporal lobe.
+- The lesion has a thick, enhancing wall.
+- There is mass effect on the adjacent brain parenchyma.
+- There is no evidence of hemorrhage or edema.
+- The ventricles are normal in size.
+- The basal cisterns are patent.
+- The midline structures are midline.
+- The orbits are unremarkable.
+- The paranasal sinuses are clear.
+- The mastoid air cells are clear.
+- The calvarium is intact.
+
+IMPRESSION:
+- Large cystic lesion in the left frontal lobe with enhancing wall, consistent with a cystic neoplasm.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: 3D Ax BRAVO +C
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979340.290
+============================================================
+FINDINGS:
+- There is a large, well-circumscribed, hyperintense mass in the right frontal lobe, measuring approximately 3.5 x 3.0 x 3.0 cm.
+- The mass is associated with surrounding vasogenic edema.
+- There is no midline shift or mass effect on the ventricles.
+- There is no evidence of hemorrhage or calcification within the mass.
+- There is no evidence of extra-axial collection.
+- The surrounding brain parenchyma is unremarkable.
+- There is no evidence of hydrocephalus.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+
+
+============================================================
+SERIES DESCRIPTION: COR
+FOLDER: 1.2.840.113619.2.311.239550818349372802392292499565135079094
+============================================================
+FINDINGS:
+The provided images show a T1-weighted MRI of the brain. The images are of poor quality and difficult to interpret. There is significant artifact present. The ventricles and sulci appear normal in size. There is no evidence of a mass lesion or hemorrhage. There is no evidence of hydrocephalus. There is no evidence of midline shift. There is no evidence of extra-axial collection. There is no evidence of acute infarct. There is no evidence of edema. There is no evidence of mass effect. There is no evidence of abnormal signal intensity. There is no evidence of abnormal enhancement. There is no evidence of vascular malformation. There is no evidence of abnormal signal intensity. There is no evidence of abnormal enhancement. There is no evidence of vascular malformation. There is no evidence of abnormal signal intensity. There is no evidence of abnormal enhancement. There is no evidence of vascular malformation. There is no evidence of abnormal signal intensity. There is no evidence of abnormal enhancement. There is no evidence of vascular malformation. There is no evidence of abnormal signal intensity. There is no evidence of abnormal enhancement. There is no evidence of vascular malformation. There is no evidence of abnormal signal intensity. There is no evidence of abnormal enhancement. There is no
+
+
+============================================================
+SERIES DESCRIPTION: SAG
+FOLDER: 1.2.840.113619.2.311.159198704559425797367639690658171011154
+============================================================
+FINDINGS:
+The provided images show a T1-weighted MRI of the brain. The images demonstrate a large mass in the left temporal lobe, extending into the left temporal horn of the lateral ventricle. The mass appears heterogenous in signal intensity. There is significant mass effect on the left temporal lobe and the left lateral ventricle. There is no evidence of hemorrhage or edema. The right side of the brain appears normal.
+
+IMPRESSION:
+Large mass in the left temporal lobe with significant mass effect. Further evaluation with contrast-enhanced MRI is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T1 W SAG
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.254
+============================================================
+FINDINGS:
+The provided MRI images show a T1 weighted sagittal view of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift is present.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T2 W COR
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.255
+============================================================
+FINDINGS:
+The provided MRI images show a T2-weighted sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities. The brainstem and cerebellum appear unremarkable. The orbits are normal. IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T2 W GRE AXIAL
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.259
+============================================================
+FINDINGS:
+The provided MRI images show a T2-weighted axial view of the brain. The images appear normal, with no obvious masses, lesions, or significant signal abnormalities. The ventricles, sulci, and basal cisterns are unremarkable. The brain parenchyma shows normal signal intensity. There is no evidence of hydrocephalus or midline shift. The posterior fossa structures are also unremarkable.
+
+IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax FRFSE T2
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.258
+============================================================
+FINDINGS:
+The brain MRI shows normal signal intensity in the gray and white matter. There is no evidence of mass effect or hydrocephalus. There is no evidence of hemorrhage or infarction. There is no evidence of extra-axial collection. There is no evidence of abnormal signal intensity in the brain parenchyma. There is no evidence of abnormal signal intensity in the brainstem or cerebellum. There is no evidence of abnormal signal intensity in the pituitary gland. There is no evidence of abnormal signal intensity in the optic nerves. There is no evidence of abnormal signal intensity in the extra-axial spaces. There is no evidence of abnormal signal intensity in the paranasal sinuses. There is no evidence of abnormal signal intensity in the mastoid air cells. There is no evidence of abnormal signal intensity in the temporal bones. There is no evidence of abnormal signal intensity in the skull base. There is no evidence of abnormal signal intensity in the skull. There is no evidence of abnormal signal intensity in the orbits. There is no evidence of abnormal signal intensity in the parotid glands. There is no evidence of abnormal signal intensity in the submandibular glands. There is no evidence of abnormal signal intensity in the thyroid gland. There is no evidence of abnormal signal intensity in the cervical spine. There is no evidence
+
+
+============================================================
+SERIES DESCRIPTION: AXIAL T2 FLAIR
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.250
+============================================================
+FINDINGS:
+The provided axial T2 FLAIR images show normal brain parenchyma. There are no obvious masses, lesions, or significant signal abnormalities. The ventricles and sulci are within normal limits. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax DWI 1000b
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.269
+============================================================
+FINDINGS:
+The provided MRI images show a T2-weighted sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, lesions, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift is present.
+
+IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T1 W AXIAL
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.270
+============================================================
+FINDINGS:
+The provided axial T1-weighted brain MRI images show normal brain parenchyma. There are no visible masses, lesions, or structural abnormalities. The ventricles, sulci, and basal cisterns appear normal in size and configuration. The brainstem and cerebellum are unremarkable. The orbits and paranasal sinuses are also normal.
+
+IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Sag T1 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.274
+============================================================
+FINDINGS:
+The provided images are T1 FSE (Thin) sequences of the brain.
+The images show normal brain parenchyma with no obvious masses, lesions, or significant signal abnormalities.
+The ventricles and sulci appear within normal limits.
+No evidence of hydrocephalus or midline shift.
+No evidence of hemorrhage or extra-axial fluid collections.
+The brainstem and cerebellum appear unremarkable.
+The orbits and paranasal sinuses are not well visualized but appear grossly normal.
+
+IMPRESSION:
+No acute intracranial pathology identified on these T1 FSE sequences.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax T1 fs +C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.273
+============================================================
+FINDINGS:
+The provided MRI images show a T1-weighted sequence with contrast (Ax T1 fs +C). The images demonstrate normal brain anatomy, including the ventricles, sulci, and basal ganglia. There are no obvious masses, lesions, or significant signal abnormalities identified within the brain parenchyma. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift is present. The paranasal sinuses and mastoid air cells are also unremarkable.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor T2 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.275
+============================================================
+FINDINGS:
+The provided MRI images show a T2 FSE sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift is seen.
+
+IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor T2 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.282
+============================================================
+FINDINGS:
+The brain MRI shows normal signal intensity and morphology in the gray and white matter. There are no focal lesions, mass effect, or hydrocephalus. The ventricles and sulci are normal in size and configuration. The orbits and paranasal sinuses are unremarkable. IMPRESSION:
+Normal brain MRI.
+
+
+============================================================
+SERIES DESCRIPTION: Cor T1 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.279
+============================================================
+FINDINGS:
+The provided images show a T1 FSE (Thin) sequence of the brain. The images demonstrate normal brain anatomy, including the ventricles, sulci, and basal ganglia. There are no obvious masses, hemorrhages, or significant signal abnormalities identified within the brain parenchyma. The brainstem and cerebellum appear unremarkable. The orbits and paranasal sinuses are also within normal limits.
+
+IMPRESSION:
+No acute intracranial pathology identified on this T1 FSE sequence.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Sag T2 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.272
+============================================================
+FINDINGS:
+The provided MRI images show a sagittal T2 FSE sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. No midline shift or herniation is evident.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor Dynamic Sella+C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.290
+============================================================
+FINDINGS:
+The provided MRI images show a T1-weighted sagittal view of the brain. The ventricles and sulci appear within normal limits. There is no evidence of a mass lesion, hemorrhage, or hydrocephalus. The brain parenchyma appears normal in signal intensity. No extra-axial fluid collections are identified. The visualized paranasal sinuses and mastoid air cells appear clear. IMPRESSION:
+Normal brain MRI.
+
+
+============================================================
+SERIES DESCRIPTION: Sag T1 FS + C (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.293
+============================================================
+FINDINGS:
+The provided MRI images show a sagittal T1 FS sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor T1 FS + C (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.294
+============================================================
+FINDINGS:
+The provided MRI images show a T1 FS + C sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. The paranasal sinuses and mastoid air cells are also clear.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax T1 fs +C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.296
+============================================================
+FINDINGS:
+The brain MRI shows normal signal intensity in the gray and white matter. There is no evidence of mass effect or hydrocephalus. No abnormal signal intensity is seen in the brain parenchyma. The ventricles and sulci are normal in size and configuration. The orbits and paranasal sinuses are unremarkable. IMPRESSION:
+Normal brain MRI.
+
+
+============================================================
+SERIES DESCRIPTION: 3D Ax BRAVO +C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.295
+============================================================
+FINDINGS:
+The brain MRI shows normal signal intensity in the gray and white matter. There is no evidence of mass effect or hydrocephalus. There is no evidence of hemorrhage or infarction. There is no evidence of extra-axial collection. The ventricles and sulci are normal in size and configuration. The orbits are unremarkable. The paranasal sinuses are clear. The mastoid air cells are clear. The calvarium is unremarkable. IMPRESSION:
+Normal brain MRI.
+
+
+============================================================
+SERIES DESCRIPTION: eADC[No-Q]:Jul 16 2024 15-03-43 IST
+FOLDER: 1.2.840.113619.2.80.3040119871.2500.1721122423.24.13.2
+============================================================
+FINDINGS:
+The provided images show T2-weighted MRI scans of the brain. The images appear to be of good quality and show a normal brain structure. There are no obvious signs of tumors, mass lesions, or significant abnormalities in the brain parenchyma, ventricles, or sulci. The brain volume appears within normal limits. There is no evidence of hydrocephalus or significant white matter disease.
+
+IMPRESSION:
+No acute intracranial pathology is identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax T2 FLAIR FS+C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.297
+============================================================
+FINDINGS:
+The provided MRI images show a T2 FLAIR sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, lesions, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift is seen.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: ADC (10^-6 mm²/s)[No-Q]:Jul 16 2024 15-03-43 IST
+FOLDER: 1.2.840.113619.2.80.3040119871.2500.1721122423.1.13.2
+============================================================
+FINDINGS:
+The provided images are T2-weighted MRI scans of the brain.
+- The images show a normal brain structure with no obvious masses, lesions, or significant abnormalities.
+- The ventricles and sulci appear within normal limits.
+- There is no evidence of hydrocephalus or significant edema.
+- The brain parenchyma appears homogeneous.
+- There are no obvious signs of hemorrhage or infarction.
+- The cerebellum and brainstem appear normal.
+- The orbits and paranasal sinuses are not clearly visible in these images, but there are no obvious abnormalities in the visualized portions of the brain.
+
+IMPRESSION:
+No significant abnormalities are identified in the brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: sReg - DWI SENSE
+FOLDER: 1.3.46.670589.11.82858.5.0.11012.2024121313463203000
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. There is a large, enhancing mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass is causing significant mass effect, with midline shift and effacement of the right lateral ventricle. There is also evidence of vasogenic edema in the surrounding brain parenchyma. The left hemisphere appears unremarkable. The ventricles are mildly enlarged. There is no evidence of hemorrhage or hydrocephalus.
+
+IMPRESSION:
+Large enhancing mass in the right frontal lobe with significant mass effect and vasogenic edema. This is highly suspicious for a primary brain tumor, such as glioblastoma multiforme.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: Reg - DWI SENSE
+FOLDER: 1.3.46.670589.11.82858.5.0.12044.2024121313462700000
+============================================================
+FINDINGS:
+The images show a large mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass is heterogeneous in signal intensity, with areas of high signal intensity on T2-weighted images and low signal intensity on T1-weighted images. There is significant mass effect on the adjacent brain parenchyma, causing midline shift and compression of the right lateral ventricle. There is also evidence of vasogenic edema surrounding the mass. The left cerebral hemisphere appears unremarkable. The brainstem and cerebellum are also unremarkable.
+
+IMPRESSION:
+Large mass in the right frontal lobe with significant mass effect and vasogenic edema. This is highly suspicious for a primary brain tumor, such as glioblastoma multiforme.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: SAG MIP +C
+FOLDER: 1.3.46.670589.11.82858.5.0.12644.2024121313525836000
+============================================================
+FINDINGS:
+The provided MRI images show a sagittal view of the brain. There is a large mass in the left temporal lobe, extending into the left temporal horn of the lateral ventricle. The mass appears heterogeneous in signal intensity, with areas of high signal intensity on T2-weighted images and low signal intensity on T1-weighted images. There is significant mass effect on the left temporal lobe and the left lateral ventricle. There is no evidence of hemorrhage or edema. The right side of the brain appears normal.
+
+IMPRESSION:
+Large mass in the left temporal lobe with significant mass effect. Further evaluation with contrast-enhanced MRI and/or CT is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: COR MIP +C
+FOLDER: 1.3.46.670589.11.82858.5.0.18980.2024121313525532000
+============================================================
+FINDINGS:
+The provided images show a sagittal T1-weighted MRI of the brain. The images demonstrate a large mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass appears heterogeneous in signal intensity. There is significant mass effect with midline shift and effacement of the right lateral ventricle. There is also evidence of vasogenic edema surrounding the mass. The left cerebral hemisphere appears unremarkable. The brainstem and cerebellum are also unremarkable.
+
+IMPRESSION:
+Large mass in the right frontal lobe with significant mass effect and vasogenic edema. This could represent a primary brain tumor or metastasis. Further evaluation with contrast-enhanced MRI and possibly biopsy is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: Survey
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313363655541
+============================================================
+FINDINGS:
+The provided MRI images show a sagittal view of the brain. The images appear to be of good quality and demonstrate normal anatomical structures. There are no obvious signs of mass, hemorrhage, edema, or other significant abnormalities. The ventricles and sulci appear within normal limits. The brain parenchyma shows normal signal intensity. No midline shift or herniation is evident.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: AX MIP + C
+FOLDER: 1.3.46.670589.11.82858.5.0.1376.2024121313530084000
+============================================================
+FINDINGS:
+The provided MRI images show a large, heterogeneous mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass exhibits areas of necrosis and hemorrhage. There is significant mass effect with midline shift and effacement of the right lateral ventricle. There is also evidence of vasogenic edema in the surrounding brain parenchyma. The left cerebral hemisphere appears relatively normal. No significant findings are noted in the cerebellum or brainstem.
+
+IMPRESSION:
+Large, complex mass in the right frontal/temporal lobe with significant mass effect and edema.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: FLAIR_MV_Long_TR
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313371691550
+============================================================
+FINDINGS:
+- There is a large mass in the right frontal lobe, extending into the right temporal lobe.
+- The mass is heterogeneous in signal intensity.
+- There is significant mass effect on the right lateral ventricle.
+- There is associated edema.
+- There is no midline shift.
+- There is no evidence of hemorrhage.
+- There is no evidence of hydrocephalus.
+- There is no evidence of extra-axial collection.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is no evidence of acute infarct.
+- There is no evidence of acute hemorrhage.
+- There is
+
+
+============================================================
+SERIES DESCRIPTION: T2W_MV
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313392338574
+============================================================
+FINDINGS:
+The images show a large, lobulated mass in the right frontal lobe, extending into the right temporal lobe. The mass is hyperintense on T2-weighted images and hypointense on T1-weighted images. There is significant mass effect with midline shift and compression of the right lateral ventricle. There is also evidence of hemorrhage within the mass. There is no evidence of edema surrounding the mass. The left hemisphere appears normal. The brainstem and cerebellum appear normal.
+
+IMPRESSION:
+Large right frontal-temporal mass with significant mass effect and hemorrhage.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2W_MV
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313403775592
+============================================================
+FINDINGS:
+- **Brain:** There is a large cystic lesion in the left temporal lobe, extending into the left temporal horn and left lateral ventricle. The lesion appears to be causing mass effect on the left temporal lobe and left lateral ventricle. There is also a smaller cystic lesion in the right temporal lobe. There is no evidence of hemorrhage or edema.
+- **Ventricles:** There is significant hydrocephalus, with enlargement of the lateral ventricles and third ventricle.
+- **Other:** No other significant abnormalities are identified.
+
+IMPRESSION:
+- Large cystic lesion in the left temporal lobe with mass effect and hydrocephalus.
+- Smaller cystic lesion in the right temporal lobe.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2W_MV
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313421654620
+============================================================
+FINDINGS:
+The brain MRI shows significant abnormalities. There is a large, multiloculated mass in the right frontal lobe, extending into the right temporal lobe and involving the right lateral ventricle. The mass appears heterogeneous in signal intensity, with areas of high T2 signal and some areas of T1 hyperintensity. There is significant mass effect on the adjacent brain parenchyma, causing midline shift and compression of the right lateral ventricle. There is also evidence of hydrocephalus, likely obstructive, due to the mass compressing the right lateral ventricle. There are also bilateral periventricular white matter lesions, which could represent chronic small vessel ischemic changes or demyelination. The ventricles are enlarged, consistent with hydrocephalus. The basal cisterns appear patent. The orbits and paranasal sinuses are unremarkable. IMPRESSION:
+Large multiloculated mass in the right frontal/temporal lobe with significant mass effect and obstructive hydrocephalus. Bilateral periventricular white matter lesions.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: SWIp_fast
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313432892642
+============================================================
+FINDINGS:
+The provided MRI images show a large, enhancing mass in the right frontal lobe, extending into the right temporal lobe and involving the right lateral ventricle. There is significant mass effect with midline shift and effacement of the right lateral ventricle. There is also evidence of vasogenic edema in the surrounding brain parenchyma. The mass appears to be predominantly solid with some cystic components. There is no evidence of hemorrhage or necrosis within the mass. The ventricles are dilated. The basal cisterns are patent. There is no evidence of hydrocephalus. The paranasal sinuses are clear. The orbits are unremarkable. IMPRESSION:
+Large enhancing mass in the right frontal lobe with significant mass effect, midline shift, and vasogenic edema. This is highly suspicious for a primary brain tumor, such as glioblastoma multiforme. Further evaluation with contrast-enhanced MRI and possibly biopsy is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T1W AX
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313462789840
+============================================================
+FINDINGS:
+The T1W axial images show a large, heterogeneously enhancing mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass is causing significant mass effect with midline shift and effacement of the right lateral ventricle. There is also evidence of vasogenic edema in the surrounding brain parenchyma. The left cerebral hemisphere appears unremarkable. The brainstem and cerebellum are also unremarkable.
+
+IMPRESSION:
+Large right frontal/temporal lobe mass with significant mass effect and vasogenic edema. This is highly suspicious for a primary brain tumor, such as glioblastoma multiforme. Further evaluation with contrast-enhanced MRI and possibly biopsy is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: DWI
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313454254643
+============================================================
+FINDINGS:
+The images show a large mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass is heterogeneous in signal intensity, with areas of high signal intensity on T2-weighted images and low signal intensity on T1-weighted images. There is significant mass effect on the adjacent brain parenchyma, causing midline shift and compression of the right lateral ventricle. There is also evidence of vasogenic edema surrounding the mass. The left cerebral hemisphere appears unremarkable. The brainstem and cerebellum are also unremarkable.
+
+IMPRESSION:
+Large mass in the right frontal lobe with significant mass effect and vasogenic edema. This is highly suspicious for a primary brain tumor, such as glioblastoma multiforme.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2W_3D_DRIVE
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313465525862
+============================================================
+FINDINGS:
+The provided MRI images show a sagittal view of the brain. The ventricles and sulci appear within normal limits. There is no evidence of a mass lesion, hemorrhage, or significant edema. The brainstem and cerebellum appear unremarkable. There is no evidence of hydrocephalus. The paranasal sinuses are clear. IMPRESSION:
+No acute intracranial pathology.
+
+
+============================================================
+SERIES DESCRIPTION: T1W_fs_ AX
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313524170936
+============================================================
+FINDINGS:
+The images show a large, heterogeneous mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass is predominantly hyperintense on T2-weighted images and hypointense on T1-weighted images. There is significant mass effect with midline shift and effacement of the right lateral ventricle. There is also evidence of vasogenic edema in the surrounding brain parenchyma. There is no evidence of hemorrhage or necrosis within the mass. The mass appears to be predominantly solid. There is no evidence of extra-axial collection. The paranasal sinuses are clear. The orbits are unremarkable. IMPRESSION:
+Large right frontal/temporal lobe mass with significant mass effect and midline shift. This is suspicious for a primary brain tumor, such as a glioblastoma. Further evaluation with contrast-enhanced MRI and potentially biopsy is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T1W AX PC
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313540729167
+============================================================
+FINDINGS:
+The images show a T1W axial PC sequence of the brain. There is a large mass in the left frontal lobe, extending into the left temporal lobe and involving the left insula. The mass is heterogeneous in signal intensity. There is significant mass effect on the left lateral ventricle, causing effacement of the left lateral ventricle. There is also mass effect on the left temporal horn. There is no midline shift. There is no evidence of hemorrhage. There is no evidence of hydrocephalus. There is no evidence of extra-axial collection. The right side of the brain appears normal. IMPRESSION:
+Large left frontal/temporal lobe mass with significant mass effect. Further evaluation with contrast-enhanced MRI is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: sT1W_3D_TFE + c
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313493897935
+============================================================
+FINDINGS:
+The provided MRI images show a brain scan. The images are of low quality and difficult to interpret. There is significant artifact and poor signal-to-noise ratio. The ventricles and sulci are difficult to visualize clearly. There is no obvious mass or hemorrhage. The brainstem and cerebellum are not well visualized.
+
+IMPRESSION:
+The images are of poor quality and difficult to interpret. No definite abnormality is identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T1W AX PC
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313543460191
+============================================================
+FINDINGS:
+The images show a large, enhancing mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass is causing significant mass effect with midline shift and effacement of the right lateral ventricle. There is also evidence of vasogenic edema in the surrounding brain parenchyma. The mass appears to be predominantly cystic with some solid components. There is no evidence of hemorrhage or necrosis within the mass. The left cerebral hemisphere appears unremarkable. The brainstem and cerebellum are also unremarkable.
+
+IMPRESSION:
+Large enhancing mass in the right frontal lobe with significant mass effect and midline shift. This is highly suspicious for a primary brain tumor, such as glioblastoma multiforme.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: dDWI
+FOLDER: 1.3.46.670589.11.82858.5.0.7840.2024121313462911000
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. There is a large, complex mass involving the right temporal lobe, extending into the lateral ventricle. The mass appears heterogeneous in signal intensity. There is significant mass effect on the adjacent brain parenchyma and the right lateral ventricle. There is also evidence of mass effect on the right temporal horn of the lateral ventricle. There is no evidence of hemorrhage or edema. There is no evidence of midline shift or herniation. The ventricles are enlarged. There is no evidence of hydrocephalus. The brainstem and cerebellum appear normal. The orbits appear normal. The paranasal sinuses appear normal. The mastoid air cells appear normal. IMPRESSION:
+Large complex mass involving the right temporal lobe with significant mass effect on the adjacent brain parenchyma and the right lateral ventricle.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: sReg - DWI SENSE
+FOLDER: 1.3.46.670589.11.82858.5.0.11012.2024121313463203000
+============================================================
+FINDINGS:
+The provided images are T2-weighted MRI scans of the brain. The images show a normal brain structure with no obvious masses, lesions, or significant abnormalities. The ventricles, sulci, and basal cisterns appear within normal limits. There is no evidence of edema, hemorrhage, or hydrocephalus. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Reg - DWI SENSE
+FOLDER: 1.3.46.670589.11.82858.5.0.12044.2024121313462700000
+============================================================
+FINDINGS:
+The provided images are T1-weighted MRI scans of the brain. The images show a normal brain structure with no obvious masses, lesions, or significant abnormalities. The ventricles, sulci, and basal cisterns appear within normal limits. There is no evidence of hydrocephalus or significant edema. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: SAG MIP +C
+FOLDER: 1.3.46.670589.11.82858.5.0.12644.2024121313525836000
+============================================================
+FINDINGS:
+The provided images show a sagittal view of a brain MRI. The images appear to be of good quality and show a well-defined brain structure. There are no obvious signs of acute hemorrhage, edema, or mass effect. The ventricles and sulci appear within normal limits. There are no visible tumors or lesions. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute abnormalities are identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: COR MIP +C
+FOLDER: 1.3.46.670589.11.82858.5.0.18980.2024121313525532000
+============================================================
+FINDINGS:
+The provided images show a T1-weighted MRI of the brain. The images demonstrate a normal brain structure with no obvious masses, lesions, or significant abnormalities. The ventricles and sulci appear within normal limits. There is no evidence of hydrocephalus or significant edema. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Survey
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313363655541
+============================================================
+FINDINGS:
+Image 1: Shows a sagittal view of the brain. The brain tissue appears relatively normal in signal intensity. No obvious masses or significant structural abnormalities are visible.
+Image 2: Shows a sagittal view of the brain. Similar to Image 1, the brain tissue appears relatively normal. No obvious masses or significant structural abnormalities are visible.
+Image 3: Shows a sagittal view of the brain. Similar to Image 1 and 2, the brain tissue appears relatively normal. No obvious masses or significant structural abnormalities are visible.
+Image 4: Shows a sagittal view of the brain. Similar to Image 1, 2, and 3, the brain tissue appears relatively normal. No obvious masses or significant structural abnormalities are visible.
+Image 5: Shows a sagittal view of the brain. Similar to Image 1, 2, 3, and 4, the brain tissue appears relatively normal. No obvious masses or significant structural abnormalities are visible.
+
+IMPRESSION:
+The provided sagittal brain MRI images show no obvious signs of significant pathology, including masses or structural abnormalities.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: AX MIP + C
+FOLDER: 1.3.46.670589.11.82858.5.0.1376.2024121313530084000
+============================================================
+FINDINGS:
+The provided images show a brain MRI scan. The images appear to be T1-weighted sequences. There is a prominent mass in the right frontal lobe, extending into the right temporal lobe. The mass appears to be heterogeneous in signal intensity. There is significant mass effect on the adjacent brain parenchyma. There is no evidence of hemorrhage or edema. The ventricles are normal in size. The midline structures are midline. There is no evidence of hydrocephalus. The paranasal sinuses are clear. The mastoid air cells are clear. IMPRESSION:
+Right frontal and temporal lobe mass with significant mass effect. Further evaluation with contrast-enhanced MRI is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: FLAIR_MV_Long_TR
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313371691550
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. There is a large, irregular mass in the right frontal lobe, extending into the temporal lobe. The mass is hyperintense on T2-weighted images and hypointense on T1-weighted images. There is significant mass effect with midline shift and compression of the adjacent structures. There is also evidence of vasogenic edema surrounding the mass. There is no evidence of hemorrhage or necrosis within the mass. The ventricles are enlarged due to the mass effect. The basal cisterns are patent. The paranasal sinuses and mastoid air cells are clear. IMPRESSION:
+Large irregular mass in the right frontal lobe with significant mass effect, midline shift, and vasogenic edema. This is highly suspicious for a primary brain tumor, such as glioblastoma.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2W_MV
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313392338574
+============================================================
+FINDINGS:
+The provided images are T2-weighted MRI scans of the brain. The images show a central structure with surrounding white matter. There is a prominent signal intensity in the central structure, which appears to be the brain parenchyma. The surrounding white matter shows a relatively uniform signal intensity. There are no obvious masses, hemorrhages, or significant structural abnormalities visible in the provided images. The images appear to be of good quality and adequately cover the brain.
+
+IMPRESSION:
+No significant abnormalities are identified in the provided T2-weighted brain MRI images.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T2W_MV
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313403775592
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI scan of the brain. The images display a complex, irregular mass within the brain parenchyma, likely involving the temporal lobe. The mass exhibits heterogeneous signal intensity, with areas of hyperintensity and hypointensity. There is evidence of mass effect, causing distortion of the surrounding brain structures. The mass appears to be causing some degree of midline shift, although the extent is difficult to precisely quantify without a comparison study. The surrounding brain tissue shows some edema. The ventricles appear slightly enlarged, possibly due to the mass effect. The overall appearance is concerning for a significant intracranial lesion.
+
+IMPRESSION:
+The images show a complex, irregular mass with mass effect and potential midline shift, concerning for a significant intracranial lesion. Further evaluation, including contrast-enhanced imaging and potentially further characterization studies, would be required for definitive diagnosis.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2W_MV
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313421654620
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. The images demonstrate significant signal intensity variations throughout the brain parenchyma. There are areas of increased signal intensity, particularly in the periventricular white matter, suggestive of gliosis or chronic small vessel ischemic changes. There are also areas of decreased signal intensity, possibly representing chronic infarcts or gliosis. There is no obvious mass lesion, hemorrhage, or hydrocephalus identified. The ventricles and sulci appear within normal limits. The brainstem and cerebellum appear unremarkable.
+
+IMPRESSION:
+The images show evidence of chronic small vessel ischemic changes and/or gliosis. No acute pathology is identified.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: SWIp_fast
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313432892642
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. The images demonstrate a normal brain structure with no obvious masses, lesions, or significant abnormalities. The ventricles and sulci appear within normal limits. There is no evidence of hydrocephalus or significant edema. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T1W AX
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313462789840
+============================================================
+FINDINGS:
+The provided images are T1W axial MRI scans of the brain.
+The images show significant signal abnormality in the left cerebral hemisphere, particularly involving the left frontal lobe and extending into the left temporal lobe. This abnormality appears as a large, ill-defined area of increased signal intensity, consistent with edema or inflammation. There is also evidence of mass effect, with midline shift and effacement of the left lateral ventricle. The right cerebral hemisphere appears relatively normal. The brainstem and cerebellum are also grossly unremarkable.
+
+IMPRESSION:
+Large left hemispheric lesion with mass effect. This could represent a large infarct, tumor, or inflammatory process. Further evaluation with contrast-enhanced MRI and potentially CT scan is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Possible
+**THOUGHT:** The images show a large area of increased signal intensity in the left cerebral hemisphere, consistent with edema or inflammation. There is also evidence of mass effect, including midline shift and effacement of the left lateral ventricle. This could represent a large infarct, tumor, or inflammatory process. Further evaluation with contrast-enhanced MRI and potentially CT scan is recommended.
+**ROUTING:**
+- ANOMALY: Present
+- TUMOR
+
+
+============================================================
+SERIES DESCRIPTION: DWI
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313454254643
+============================================================
+FINDINGS:
+The provided images are T2-weighted MRI scans of the brain. The images show a large mass in the right frontal lobe, extending into the right temporal lobe. The mass appears heterogeneous in signal intensity. There is significant mass effect on the adjacent brain parenchyma. There is no evidence of hemorrhage or edema. The ventricles are normal in size. The midline structures are midline. The paranasal sinuses are clear. The orbits are unremarkable. IMPRESSION:
+Large mass in the right frontal lobe extending into the right temporal lobe. The mass appears heterogeneous in signal intensity. There is significant mass effect on the adjacent brain parenchyma. Further evaluation with contrast-enhanced MRI is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2W_3D_DRIVE
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313465525862
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. The images demonstrate a normal brain structure with no obvious masses, lesions, or significant abnormalities. The ventricles and sulci appear within normal limits. There is no evidence of hydrocephalus or significant edema. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T1W_fs_ AX
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313524170936
+============================================================
+FINDINGS:
+The provided images are T1W_fs_ AX axial brain MRI scans.
+The images show a large, heterogeneous mass in the right frontal lobe, extending into the right temporal lobe and involving the right insula. The mass is causing significant mass effect, compressing the right lateral ventricle and causing midline shift to the left. There is also evidence of vasogenic edema surrounding the mass. The mass appears to be predominantly cystic with some solid components. There is no evidence of hemorrhage or calcification within the mass. The surrounding brain parenchyma appears relatively normal.
+
+IMPRESSION:
+Large, heterogeneous mass in the right frontal/temporal lobe with significant mass effect and vasogenic edema. The differential diagnosis includes primary brain tumor (e.g., glioblastoma, metastasis) or secondary brain tumor. Further evaluation with contrast-enhanced MRI and potentially biopsy is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T1W AX PC
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313540729167
+============================================================
+FINDINGS:
+The provided images are T1W axial PC MRI scans of the brain. The images show a normal brain structure with no obvious masses, lesions, or significant abnormalities. The ventricles, sulci, and basal cisterns appear within normal limits. There is no evidence of hydrocephalus or significant edema. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: sT1W_3D_TFE + c
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313493897935
+============================================================
+FINDINGS:
+The provided images show a brain MRI scan. The images appear to be of good quality and show a clear view of the brain parenchyma. There are no obvious signs of acute hemorrhage or large infarcts. The ventricles and sulci appear within normal limits. There is no evidence of a mass lesion or significant edema. The brainstem and cerebellum appear unremarkable. There are no obvious signs of hydrocephalus.
+
+IMPRESSION:
+No acute abnormalities identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T1W AX PC
+FOLDER: 1.3.46.670589.11.82858.5.0.6452.2024121313543460191
+============================================================
+FINDINGS:
+The provided images are T1W axial PC MRI scans of the brain.
+The images show a normal brain structure with no obvious masses, lesions, or significant abnormalities. The ventricles, sulci, and basal cisterns appear within normal limits. There is no evidence of hydrocephalus or significant edema. The brain parenchyma appears homogeneous.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: dDWI
+FOLDER: 1.3.46.670589.11.82858.5.0.7840.2024121313462911000
+============================================================
+FINDINGS:
+The provided images are dDWI brain MRI scans. The images show a brain structure with a characteristic appearance. There are no obvious signs of large masses, hemorrhage, or significant edema. The signal intensity appears relatively uniform across the structures visible. There are no clear indicators of a tumor or significant structural abnormality based on these images alone.
+
+IMPRESSION:
+No clear evidence of tumor or significant structural abnormality in these dDWI images.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent

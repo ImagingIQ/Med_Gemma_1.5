@@ -1,0 +1,339 @@
+
+
+============================================================
+SERIES DESCRIPTION: COR
+FOLDER: 1.2.840.113619.2.311.239550818349372802392292499565135079094
+============================================================
+FINDINGS:
+The provided images show a T1-weighted MRI of the brain. The images demonstrate a large mass in the right temporal lobe, extending into the temporal horn of the right lateral ventricle. The mass appears to be predominantly hypointense on T1-weighted images, with some areas of hyperintensity. There is significant mass effect on the adjacent temporal lobe and the lateral ventricle. There is no evidence of hemorrhage or edema. The surrounding brain parenchyma appears unremarkable.
+
+IMPRESSION:
+Large mass in the right temporal lobe with significant mass effect. Further evaluation with contrast-enhanced MRI and/or CT is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: SAG
+FOLDER: 1.2.840.113619.2.311.159198704559425797367639690658171011154
+============================================================
+FINDINGS:
+The provided images show a T1-weighted MRI of the brain. The images demonstrate a large mass in the left temporal lobe, extending into the left temporal horn of the lateral ventricle. The mass appears heterogenous in signal intensity. There is significant mass effect on the left temporal lobe and the left lateral ventricle. There is no evidence of hemorrhage or edema. The right side of the brain appears normal.
+
+IMPRESSION:
+Large mass in the left temporal lobe with significant mass effect. Further evaluation with contrast-enhanced MRI is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T1 W SAG
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.254
+============================================================
+FINDINGS:
+The provided MRI images show a T1 weighted sagittal view of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T2 W COR
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.255
+============================================================
+FINDINGS:
+The provided MRI images show a T2-weighted sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, lesions, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. The orbits and paranasal sinuses are also within normal limits.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T2 W GRE AXIAL
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.259
+============================================================
+FINDINGS:
+- The brain parenchyma appears normal in signal intensity and morphology.
+- There is no evidence of mass effect or hydrocephalus.
+- No obvious intracranial hemorrhage or extra-axial fluid collection is identified.
+- The ventricles and sulci are within normal limits.
+- The visualized paranasal sinuses and mastoid air cells are clear.
+- No significant bony abnormalities are noted.
+
+IMPRESSION:
+- Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax FRFSE T2
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.258
+============================================================
+FINDINGS:
+The brain MRI shows normal signal intensity in the gray and white matter. There is no evidence of mass effect or hydrocephalus. There is no evidence of hemorrhage or infarction. There is no evidence of extra-axial collection. The ventricles are normal in size. The basal cisterns are patent. The orbits are unremarkable. The paranasal sinuses are clear. The mastoid air cells are clear. IMPRESSION:
+Normal brain MRI.
+
+
+============================================================
+SERIES DESCRIPTION: AXIAL T2 FLAIR
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.250
+============================================================
+FINDINGS:
+The provided axial T2 FLAIR images show normal brain parenchyma. There are no obvious masses, lesions, or significant signal abnormalities. The ventricles and sulci are within normal limits. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax DWI 1000b
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.269
+============================================================
+FINDINGS:
+The provided images show a standard axial T2-weighted brain MRI. The ventricles, sulci, and cisterns appear normal in size and configuration. There is no evidence of mass effect or midline shift. No abnormal signal intensity is observed within the brain parenchyma. No extra-axial fluid collections are seen. The brainstem and cerebellum appear unremarkable. The orbits and paranasal sinuses are also unremarkable.
+
+IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: T1 W AXIAL
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.270
+============================================================
+FINDINGS:
+The provided axial T1-weighted brain MRI images show normal brain parenchyma. There are no visible masses, lesions, or structural abnormalities. The ventricles, sulci, and basal cisterns appear normal in size and configuration. The brainstem and cerebellum are unremarkable. The orbits and paranasal sinuses are also normal.
+
+IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Sag T1 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.274
+============================================================
+FINDINGS:
+The provided images are T1 FSE (Thin) sequences of the brain.
+The images show a normal brain parenchyma with no obvious masses, lesions, or significant signal abnormalities.
+The ventricles and sulci appear within normal limits.
+No evidence of hydrocephalus or midline shift.
+No evidence of hemorrhage or extra-axial fluid collections.
+The brainstem and cerebellum appear unremarkable.
+The orbits and paranasal sinuses are not well visualized but appear grossly normal.
+
+IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax T1 fs +C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.273
+============================================================
+FINDINGS:
+The provided MRI images show a T1-weighted sequence with contrast (T1 fs + C). The images demonstrate normal brain anatomy, including the ventricles, sulci, and basal ganglia. There are no obvious masses, lesions, or significant signal abnormalities identified within the brain parenchyma. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift is present. The paranasal sinuses and mastoid air cells are also unremarkable.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor T2 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.275
+============================================================
+FINDINGS:
+The provided MRI images show a T2 FSE sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities. The brainstem and cerebellum appear unremarkable. No midline shift or herniation is evident. IMPRESSION:
+Normal brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor T2 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.282
+============================================================
+FINDINGS:
+The provided MRI images show a T2 FSE sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, lesions, or significant abnormalities identified in the visualized portions of the brain. The signal intensity is homogeneous throughout the brain. There is no evidence of hydrocephalus or midline shift. The posterior fossa structures appear normal. IMPRESSION:
+Normal brain MRI. No evidence of tumor or significant abnormality.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor T1 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.279
+============================================================
+FINDINGS:
+The provided images are T1 FSE (Thin) sequences of the brain.
+- The ventricles and sulci appear within normal limits in size and configuration.
+- There is no evidence of hydrocephalus.
+- There is no evidence of intracranial hemorrhage or extra-axial fluid collections.
+- There is no evidence of mass effect or midline shift.
+- There is no evidence of abnormal signal intensity within the brain parenchyma.
+- There is no evidence of abnormal enhancement.
+- The visualized paranasal sinuses and mastoid air cells appear clear.
+- The orbits appear unremarkable.
+- The calvarium appears intact.
+
+IMPRESSION:
+No acute intracranial abnormality.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Sag T2 FSE (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.272
+============================================================
+FINDINGS:
+The provided MRI images show a sagittal T2 FSE sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor Dynamic Sella+C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.290
+============================================================
+FINDINGS:
+The provided MRI images show a T1-weighted sagittal view of the brain. The ventricles and sulci appear within normal limits. There is no evidence of mass effect or hydrocephalus. No obvious intracranial hemorrhage or extra-axial fluid collection is identified. The brain parenchyma appears homogeneous. No significant abnormalities are noted in the visualized portions of the orbits or paranasal sinuses.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Sag T1 FS + C (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.293
+============================================================
+FINDINGS:
+The provided MRI images show a sagittal T1 FS sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, hemorrhages, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Cor T1 FS + C (Thin)
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.294
+============================================================
+FINDINGS:
+The provided MRI images show a T1 FS + C sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, lesions, or significant abnormalities identified in the visualized portions of the brain. The signal intensity is homogeneous throughout the brain.
+
+IMPRESSION:
+No acute pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax T1 fs +C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.296
+============================================================
+FINDINGS:
+The brain MRI shows normal signal intensity in the gray and white matter. There are no focal lesions, mass effect, or hydrocephalus. The ventricles and sulci are normal in size and configuration. The orbits and paranasal sinuses are unremarkable. IMPRESSION:
+Normal brain MRI.
+
+
+============================================================
+SERIES DESCRIPTION: 3D Ax BRAVO +C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.295
+============================================================
+FINDINGS:
+The brain MRI shows normal signal intensity in the gray and white matter. There is no evidence of mass effect or hydrocephalus. There is no evidence of hemorrhage or infarction. There is no evidence of extra-axial collection. The ventricles are normal in size. The basal cisterns are patent. The orbits are unremarkable. The paranasal sinuses are clear. The mastoid air cells are clear. IMPRESSION:
+Normal brain MRI.
+
+
+============================================================
+SERIES DESCRIPTION: eADC[No-Q]:Jul 16 2024 15-03-43 IST
+FOLDER: 1.2.840.113619.2.80.3040119871.2500.1721122423.24.13.2
+============================================================
+FINDINGS:
+The provided images show T1-weighted MRI scans of the brain. The images appear to be of good quality with no obvious artifacts. The ventricles, sulci, and basal cisterns appear within normal limits. There is no evidence of mass effect or midline shift. No obvious hemorrhage or infarct is seen. There is no evidence of hydrocephalus. The brain parenchyma appears homogeneous. There is no evidence of a tumor.
+
+IMPRESSION:
+No acute intracranial pathology. No evidence of tumor.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax T2 FLAIR FS+C
+FOLDER: 1.2.840.113619.2.44.14196467.3443775.21500.1721007995.297
+============================================================
+FINDINGS:
+The provided MRI images show a T2 FLAIR sequence of the brain. The images demonstrate normal brain parenchyma, ventricles, and sulci. There are no obvious masses, lesions, or significant signal abnormalities identified. The brainstem and cerebellum appear unremarkable. No evidence of hydrocephalus or midline shift is seen.
+
+IMPRESSION:
+No acute intracranial pathology identified.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: ADC (10^-6 mm²/s)[No-Q]:Jul 16 2024 15-03-43 IST
+FOLDER: 1.2.840.113619.2.80.3040119871.2500.1721122423.1.13.2
+============================================================
+FINDINGS:
+The provided images show T2-weighted MRI scans of the brain. The images appear to be of good quality with no obvious artifacts. The ventricles, sulci, and basal cisterns appear within normal limits. There is no evidence of mass effect or midline shift. There is no evidence of hemorrhage or extra-axial fluid collection. There is no evidence of abnormal signal intensity within the brain parenchyma. There is no evidence of hydrocephalus. There is no evidence of a mass lesion. There is no evidence of a tumor.
+
+IMPRESSION:
+No acute intracranial pathology. No evidence of a mass lesion or tumor.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent

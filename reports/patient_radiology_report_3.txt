@@ -1,0 +1,212 @@
+
+
+============================================================
+SERIES DESCRIPTION: T1 W AXIAL
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979334.251
+============================================================
+FINDINGS:
+The brain MRI shows a large, well-circumscribed, hyperintense lesion in the right frontal lobe, extending into the right temporal lobe. The lesion appears to be predominantly cystic with some areas of hemorrhage. There is mass effect on the adjacent brain parenchyma. There is no midline shift or hydrocephalus. The ventricles are normal in size. The basal cisterns are patent. The orbits are unremarkable. The paranasal sinuses are clear. The mastoid air cells are clear. IMPRESSION:
+Large cystic lesion in the right frontal lobe with hemorrhage and mass effect. This could represent a cystic neoplasm, such as a cystic astrocytoma or a cystic metastasis. Further evaluation with contrast-enhanced MRI and possibly biopsy is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: AXIAL T2 FLAIR
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979335.642
+============================================================
+FINDINGS:
+- There is a large area of encephalomalacia and gliosis in the right frontal lobe, consistent with a large infarct.
+- There is a smaller area of encephalomalacia and gliosis in the left frontal lobe.
+- There is a small area of encephalomalacia and gliosis in the right parietal lobe.
+- There is a small area of encephalomalacia and gliosis in the left parietal lobe.
+- There is a small area of encephalomalacia and gliosis in the right occipital lobe.
+- There is a small area of encephalomalacia and gliosis in the left occipital lobe.
+- There is a small area of encephalomalacia and gliosis in the right temporal lobe.
+- There is a small area of encephalomalacia and gliosis in the left temporal lobe.
+- There is a small area of encephalomalacia and gliosis in the right cerebellum.
+- There is a small area of encephalomalacia and gliosis in the left cerebellum.
+- There is a small area of encephalomalacia and gliosis in the right pons.
+- There is a small area of encephalomalacia and gliosis in the left pons.
+- There is a small area of encephal
+
+
+============================================================
+SERIES DESCRIPTION: Ax T1 fs +C
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979336.414
+============================================================
+FINDINGS:
+- There is a large, well-circumscribed, lobulated mass in the right frontal lobe, measuring approximately 3.5 x 3.0 x 3.0 cm.
+- The mass is predominantly hyperintense on T1-weighted images and hypointense on T2-weighted images.
+- There is associated vasogenic edema in the right frontal lobe.
+- There is no midline shift or mass effect on the ventricles.
+- The left cerebral hemisphere appears normal.
+- The brainstem and cerebellum appear normal.
+- The orbits appear normal.
+- The paranasal sinuses appear normal.
+- The mastoid air cells appear normal.
+- The calvarium appears normal.
+
+IMPRESSION:
+- Large lobulated mass in the right frontal lobe with associated vasogenic edema.
+- Differential diagnosis includes neoplasm (e.g., meningioma, glioma, metastasis) and abscess.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: T2 W COR
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979335.257
+============================================================
+FINDINGS:
+The images show a large right-sided brain mass with significant mass effect on the right lateral ventricle and midline shift. There is also evidence of hemorrhage within the mass. There is also a smaller mass in the left temporal lobe.
+
+IMPRESSION:
+Large right-sided brain mass with mass effect and hemorrhage. Smaller left temporal lobe mass.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: Ax T2 FLAIR FS+C
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979336.35
+============================================================
+FINDINGS:
+- There is a large area of encephalomalacia in the right frontal lobe, likely representing a chronic infarct.
+- There is a smaller area of encephalomalacia in the left frontal lobe.
+- There is a small area of encephalomalacia in the right parietal lobe.
+- There is a small area of encephalomalacia in the left parietal lobe.
+- There is a small area of encephalomalacia in the right occipital lobe.
+- There is a small area of encephalomalacia in the left occipital lobe.
+- There is a small area of encephalomalacia in the right temporal lobe.
+- There is a small area of encephalomalacia in the left temporal lobe.
+- There is a small area of encephalomalacia in the right cerebellum.
+- There is a small area of encephalomalacia in the left cerebellum.
+- There is a small area of encephalomalacia in the right pons.
+- There is a small area of encephalomalacia in the left pons.
+- There is a small area of encephalomalacia in the right medulla.
+- There is a small area of encephalomalacia in the left medulla.
+- There is a small area of encephalomalacia in the
+
+
+============================================================
+SERIES DESCRIPTION: T2 W GRE AXIAL
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979336.799
+============================================================
+FINDINGS:
+- The brain parenchyma appears unremarkable.
+- There is no evidence of mass effect or hydrocephalus.
+- No obvious signs of acute infarct or hemorrhage are seen.
+- The ventricles and sulci are within normal limits.
+- No significant extra-axial collection is identified.
+- The visualized paranasal sinuses and mastoid air cells appear clear.
+- The orbits appear unremarkable.
+- The visualized facial bones appear unremarkable.
+- The visualized cervical spine appears unremarkable.
+
+IMPRESSION:
+- Unremarkable brain MRI.
+
+ROUTING:
+- ANOMALY: Absent
+- TUMOR: Absent
+
+
+============================================================
+SERIES DESCRIPTION: Ax FRFSE T2
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979337.193
+============================================================
+FINDINGS:
+- There is a large area of encephalomalacia and gliosis in the right frontal lobe, consistent with a large infarct.
+- There is a smaller area of encephalomalacia and gliosis in the left frontal lobe, consistent with a smaller infarct.
+- There is a small area of encephalomalacia and gliosis in the right parietal lobe, consistent with a small infarct.
+- There is a small area of encephalomalacia and gliosis in the left parietal lobe, consistent with a small infarct.
+- There is a small area of encephalomalacia and gliosis in the right occipital lobe, consistent with a small infarct.
+- There is a small area of encephalomalacia and gliosis in the left occipital lobe, consistent with a small infarct.
+- There is a small area of encephalomalacia and gliosis in the right temporal lobe, consistent with a small infarct.
+- There is a small area of encephalomalacia and gliosis in the left temporal lobe, consistent with a small infarct.
+- There is a small area of encephalomalacia and gliosis in the right cerebellum, consistent with a small infarct.
+- There is a small area of encephalomalacia and gliosis in the left cerebellum
+
+
+============================================================
+SERIES DESCRIPTION: 3-pl T2* FGRE-XL
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979339.946
+============================================================
+FINDINGS:
+- **Brain Parenchyma:** There is a large area of abnormal signal intensity in the right frontal lobe, extending into the right temporal lobe. This area appears hyperintense on T2-weighted images and hypointense on T1-weighted images, with significant mass effect on the adjacent brain parenchyma. There is also a smaller area of abnormal signal intensity in the left frontal lobe, which appears hyperintense on T2-weighted images and hypointense on T1-weighted images.
+- **Ventricles:** The ventricles appear normal in size and configuration.
+- **Extra-axial Spaces:** There is no evidence of a subdural or epidural hematoma.
+- **Brainstem and Cerebellum:** The brainstem and cerebellum appear normal.
+- **Pituitary Gland:** The pituitary gland appears normal.
+- **Orbits:** The orbits appear normal.
+- **Other:** There is no evidence of hydrocephalus.
+
+IMPRESSION:
+- Large area of abnormal signal intensity in the right frontal lobe with mass effect.
+- Smaller area of abnormal signal intensity in the left frontal lobe.
+- These findings are suspicious for a large brain tumor, possibly a glioblastoma or metastasis.
+
+ROUT
+
+
+============================================================
+SERIES DESCRIPTION: T1 W SAG
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979344.195
+============================================================
+FINDINGS:
+- The brain MRI shows a large, well-defined, hyperintense lesion in the left frontal lobe, extending into the left temporal lobe.
+- The lesion appears to be cystic with some internal septations.
+- There is mass effect on the adjacent brain parenchyma.
+- No significant edema is observed.
+- The ventricles and sulci are normal in size and configuration.
+- No midline shift is evident.
+- The posterior fossa structures are unremarkable.
+- The orbits and paranasal sinuses are normal.
+- No hemorrhage or infarction is seen.
+
+IMPRESSION:
+- Large cystic lesion in the left frontal and temporal lobes with mass effect.
+- Differential diagnosis includes cystic neoplasm (e.g., cystic astrocytoma, craniopharyngioma, epidermoid cyst) or complex cyst.
+- Further evaluation with contrast-enhanced MRI and possibly CT is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: ADC (10^-6 mm²/s)[No-Q]:Feb 08 2025 06-56-25 IST
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979343.354
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. There is a large area of high signal intensity (hyperintensity) in the right parietal lobe, extending into the temporal lobe. This area is associated with significant mass effect, causing midline shift and compression of the adjacent structures. There is also evidence of surrounding vasogenic edema. The ventricles are enlarged, consistent with the mass effect. The left side of the brain appears relatively normal. There are no obvious signs of hemorrhage or calcification.
+
+IMPRESSION:
+Large area of hyperintensity in the right parietal and temporal lobes with significant mass effect, midline shift, and vasogenic edema.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Present
+
+
+============================================================
+SERIES DESCRIPTION: eADC[No-Q]:Feb 08 2025 06-56-25 IST
+FOLDER: 1.2.840.113619.2.25.4.2147483647.1738979344.519
+============================================================
+FINDINGS:
+The provided images show a T2-weighted MRI of the brain. There is a large area of signal abnormality in the right parietal lobe, extending into the temporal lobe. This area appears hyperintense on T2-weighted images. There is mass effect on the adjacent structures. There is no evidence of hemorrhage or edema. The ventricles and sulci are normal in size. The midline structures are midline. There is no evidence of hydrocephalus. The brainstem and cerebellum are unremarkable.
+
+IMPRESSION:
+Large area of signal abnormality in the right parietal and temporal lobes, consistent with a large infarct or possibly a tumor. Further evaluation is recommended.
+
+ROUTING:
+- ANOMALY: Present
+- TUMOR: Possible
+
